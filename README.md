@@ -7,6 +7,9 @@
 <br>
 <p>- HTML</p>
 <p>- CSS </p>
+<p>- JavaScript</p>
+<br>
+<h4>Prints do Projeto-iphone</h4>
 
 <img src="https://github.com/Orlando0292/Iphone/blob/main/img/printiphone/Captura%20de%20Tela%20(13).png?raw=true" />
 <img src="https://github.com/Orlando0292/Iphone/blob/main/img/printiphone/Captura%20de%20Tela%20(14).png?raw=true" />
